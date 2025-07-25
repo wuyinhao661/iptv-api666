@@ -1,7 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
-# This is a list of subscription sources, with one subscription address per line
+# 这是一个订阅来源列表，每行一个订阅地址
 
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 https://live.hacks.tools/tv/iptv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
